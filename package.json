@@ -1,0 +1,11 @@
+{
+  "name": "node1stapp",
+  "version": "1.0.0",
+  "description": "Practice Node.js from Udemy lesson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
