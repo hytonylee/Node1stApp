@@ -1,6 +1,6 @@
-const sayHello = (name) => {
-    console.log('Hello ' + name)
-}
+const os = require('os');
 
+const totalMemory = os.totalmem()
+const freeMemory = os.freemen()
 
-sayHello("Tony")
+console.log('Total Memory: ' + totalMemory);
